@@ -1,0 +1,40 @@
+VERSION                 "1"
+CONFIG                  "C:\projects\cod\t7\bin\StringEd.cfg"
+FILENOTES               ""
+
+REFERENCE               OBJECTIVES_POWERUPS
+LANG_ENGLISH            "Kill enemies for a chance to get a powerup."
+
+REFERENCE               OBJECTIVES_POWERUPS_HINT
+LANG_ENGLISH            "Get kills, earn powerups."
+
+REFERENCE               OBJECTIVES_POWERUPS_SCORE
+LANG_ENGLISH            "Kill enemies for a chance to get a powerup."
+
+REFERENCE               MAX_AMMO_PICKUP
+LANG_ENGLISH            "Picked up Max Ammo!"
+
+REFERENCE               MINIGUN_PICKUP
+LANG_ENGLISH            "Picked up a Death Machine!"
+
+REFERENCE               INSTA_KILL_PICKUP
+LANG_ENGLISH            "Pick up an Insta-Kill!"
+
+REFERENCE               NUKE_PICKUP
+LANG_ENGLISH            "Dropped a Nuke!"
+
+REFERENCE               POWERUPS_LOWER
+LANG_ENGLISH            "MP Powerups"
+
+REFERENCE               POWERUPS_LOWER_SHORT
+LANG_ENGLISH            "Powerups"
+
+REFERENCE               POWERUPS_CAPS
+LANG_ENGLISH            "MP POWERUPS"
+
+REFERENCE               POWERUPS_CAPS_SHORT
+LANG_ENGLISH            "POWERUPS"
+
+
+
+ENDMARKER

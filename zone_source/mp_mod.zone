@@ -1,0 +1,40 @@
+>mode,mp
+>type,common
+
+#include "mp_mod.class"
+
+//strings
+localize,powerups
+
+structuredtable,gamedata/tables/common/mod_game_types.json
+
+//powerup drop scripts
+scriptparsetree,scripts/mp/gametypes/mp_powerups.gsc
+scriptparsetree,scripts/mp/gametypes/mp_powerups.csc
+scriptparsetree,scripts/mp/gametypes/full_ammo.gsc
+scriptparsetree,scripts/mp/gametypes/full_ammo.csc
+scriptparsetree,scripts/mp/gametypes/nuke.gsc
+scriptparsetree,scripts/mp/gametypes/nuke.csc
+scriptparsetree,scripts/mp/gametypes/insta_kill.gsc
+scriptparsetree,scripts/mp/gametypes/insta_kill.csc
+scriptparsetree,scripts/mp/gametypes/free_perk.gsc
+scriptparsetree,scripts/mp/gametypes/free_perk.csc
+scriptparsetree,scripts/mp/gametypes/minigun.gsc
+scriptparsetree,scripts/mp/gametypes/minigun.csc
+
+//powerup drop models
+xmodel,ammocan
+xmodel,bomb_drop
+xmodel,skull_drop
+xmodel,x2_drop
+xmodel,perk_bottle_drop
+xmodel,minigun_drop
+
+//powerup hud images
+material,skull_hud
+image,i_skull_hud
+material,minigun_hud
+image,i_minigun_hud
+
+
+sound,mp_mod

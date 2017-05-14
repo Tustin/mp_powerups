@@ -1,0 +1,8 @@
+console_mp.log
+zone_source/all/
+zone_source/english/
+zone_source/loc/
+*.ff
+*.xpak
+*.sabl
+*.sabs
